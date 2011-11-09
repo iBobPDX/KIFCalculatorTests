@@ -1,0 +1,283 @@
+TCalculator
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator/Calculator-Info.plist
+cProcessPCH /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch.pth Calculator/Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/AppDelegate.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/ViewController.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+cGenerateDSYMFile /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+cCopyStringsFile /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/en.lproj/InfoPlist.strings Calculator/en.lproj/InfoPlist.strings
+cCompileXIB /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib
+cTouch /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004E8F56E40000000000000110
+t1318016740
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.h
+c000000004E93C1680000000000000179
+t1318306152
+s377
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.m
+c000000004E93DF750000000000000A1C
+t1318313845
+s2588
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/Calculator-Prefix.pch
+c000000004E93C1680000000000000143
+t1318306152
+s323
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.h
+c000000004E93DF780000000000000198
+t1318313848
+s408
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m
+c000000004E93E1210000000000000568
+t1318314273
+s1384
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.h
+c000000004E93D3CE00000000000001C9
+t1318310862
+s457
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m
+c000000004E93DF770000000000000416
+t1318313847
+s1046
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/InfoPlist.strings
+c000000004E93C168000000000000002D
+t1318306152
+s45
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib
+c000000004E93E1210000000000009947
+t1318314273
+s39239
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.m
+c000000004E93C168000000000000015D
+t1318306152
+s349
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/AppDelegate.o
+t1318313753
+s52616
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList
+c000000004E93C4BC000000000000023C
+t1318307004
+s572
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o
+t1318313753
+s7992
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/ViewController.o
+t1318313753
+s40440
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+t1318306262
+s2592
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app
+t1318313753
+s204
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+t1318313753
+s102
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+t1318313753
+s23488
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+t1318306259
+s827
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo
+t1318306259
+s8
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/en.lproj/InfoPlist.strings
+t1318306263
+s42
+
+N/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/en.lproj/ViewController.nib
+t1318313522
+s5174
+
+N/var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch.pth
+t1318306262
+s3907472
+
+NCalculator/Calculator-Info.plist
+c000000004E93C16800000000000004B4
+t1318306152
+s1204
+
+CBuild AST from /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.m
+r0
+
+CBuild AST from /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m
+r0
+
+CBuild AST from /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m
+r0
+
+CBuild AST from /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies680453a11844b441^f30056a11844b441^---0#1#0#--18"Check dependencies36"CF8354C0-3486-460B-B409-4577993B527D-
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/AppDelegate.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340007073.337402
+e340007073.508341
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/AppDelegate.o
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.mbe8456a11844b441^b70884a11844b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.m0000000000000000^2825"CompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/AppDelegate.o Calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/include -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -F/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator -include /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/AppDelegate.d -c /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/AppDelegate.m -o /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/AppDelegate.o36"05D477CD-63EF-4FF3-A1CB-00B4336E8ABF-
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340007073.444225
+e340007073.518749
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m7ae271a11844b441^d71785a11844b441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m0000000000000000^2845"CompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o Calculator/CalculatorBrain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/include -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -F/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator -include /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.d -c /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/CalculatorBrain.m -o /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o36"834D3C4C-01EB-41A6-937B-614D0991E121-
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/ViewController.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340007073.338449
+e340007073.441729
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/ViewController.o
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m7ec556a11844b441^3e2672a11844b441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m0000000000000000^2840"CompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/ViewController.o Calculator/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/include -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -F/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator -include /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/ViewController.d -c /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/ViewController.m -o /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/ViewController.o36"FC581019-F7AE-4325-9914-E4BE2CA9720F-
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s339999062.248464
+e339999062.508931
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.mb5c33f56f943b441^6b4a8256f943b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.m0000000000000000^2790"CompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o Calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/include -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -F/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator -include /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.d -c /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/main.m -o /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o36"CD55BB8A-FF8A-4A66-B0F6-30656C40E820-
+
+CCompileXIB /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib
+s340007073.649368
+e340007076.039784
+r1
+xCompileXIB
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib:41: warning: Using the font DBLCDTempBlack in versions of Xcode prior to 4.2 may have unexpected results. [9]
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib3257a6a11844b441^a73c0aa41844b441^-237"/* com.apple.ibtool.document.warnings *//Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib:41: warning: Using the font DBLCDTempBlack in versions of Xcode prior to 4.2 may have unexpected results. [9]1(21%IDEActivityLogMessage2@92"Using the font DBLCDTempBlack in versions of Xcode prior to 4.2 may have unexpected results.-340007076#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@101"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib0000000000000000^40#18446744073709551615#40#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@101"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib0000000000000000^742"CompileXIB Calculator/en.lproj/ViewController.xib    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/en.lproj/ViewController.nib /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"151925E5-17E0-4E27-BDFD-C2F4FEDAFC20-
+
+CCopyStringsFile /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/en.lproj/InfoPlist.strings Calculator/en.lproj/InfoPlist.strings
+s339999063.506697
+e339999063.521461
+r1
+xCopyStringsFile
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/en.lproj/InfoPlist.strings
+xCalculator/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy Calculator/en.lproj/InfoPlist.strings66db8157f943b441^5d888557f943b441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/en.lproj/InfoPlist.strings0000000000000000^539"CopyStringsFile build/Debug-iphonesimulator/Calculator.app/en.lproj/InfoPlist.strings Calculator/en.lproj/InfoPlist.strings    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/en.lproj -- Calculator/en.lproj/InfoPlist.strings36"D27CB9D3-8741-4572-9B5F-6A92A2B1611E-
+
+CGenerateDSYMFile /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+s340007073.600163
+e340007073.646361
+r1
+xGenerateDSYMFile
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Generating /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM52b999a11844b441^2637a6a11844b441^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM/0000000000000000^535"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator -o /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM36"F8A82F66-2B5E-41ED-9979-3BB3DC72F780-
+
+CLd /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+s340007073.520128
+e340007073.583331
+r1
+xLd
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator0b4285a11844b441^bd6e95a11844b441^---0#0#0#--1092"Ld build/Debug-iphonesimulator/Calculator.app/Calculator normal i386    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator -F/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator -filelist /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator36"8C56A812-F8A0-4935-AE79-D98A709F05CA-
+
+CProcessInfoPlistFile /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator/Calculator-Info.plist
+s339999059.342656
+e339999059.349951
+r1
+xProcessInfoPlistFile
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+xCalculator/Calculator-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process Calculator/Calculator-Info.plist2ae35753f943b441^b3975953f943b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/Calculator-Info.plist0000000000000000^631"ProcessInfoPlistFile build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator/Calculator-Info.plist    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Calculator/Calculator-Info.plist -genpkginfo /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist36"AD2D3617-329D-45CB-B2C2-EB654C9303D0-
+
+CProcessPCH /Users/robertcorlett/Library/Developer/Xcode/DerivedData/Calculator-atzzywmbewhpnkfdqddgqnymqloo/Index/PrecompiledHeaders/Calculator-Prefix-bvxcambmyuhbmqcrhjlmooidxpzt_ast/Calculator-Prefix.pch.pth Calculator/Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch.pth Calculator/Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s339999059.353008
+e339999062.246423
+r1
+xProcessPCH
+x/var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch.pth
+xCalculator/Calculator-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Calculator/Calculator-Prefix.pch2e925a53f943b441^09163f56f943b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/Calculator-Prefix.pch0000000000000000^2803"ProcessPCH /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch.pth Calculator/Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/include -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -F/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator -c /Users/robertcorlett/Desktop/iOSFun/Calculator/Calculator/Calculator-Prefix.pch -o /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Ze/Ze5aC68jEXyqjdvpt7PfQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator-Prefix-gukgtxhnrfhpefbtvoepxztpenfl/Calculator-Prefix.pch.d36"C3BF09C0-DFD4-4297-93C8-C49A96D86C11-
+
+CTouch /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app
+s340007076.043080
+e340007076.060933
+r1
+xTouch
+x/Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Touch /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app6d1a0ba41844b441^4ca90fa41844b441^---0#0#0#--346"Touch build/Debug-iphonesimulator/Calculator.app    cd /Users/robertcorlett/Desktop/iOSFun/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robertcorlett/Desktop/iOSFun/Calculator/build/Debug-iphonesimulator/Calculator.app36"F7DBDBD8-51F3-465F-A5EC-ED4237FCBFFE-
+
