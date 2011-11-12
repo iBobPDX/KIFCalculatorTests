@@ -7,8 +7,8 @@
 //
 
 #import "AppDelegate.h"
-
 #import "ViewController.h"
+#import "EXTestController.h"
 
 @implementation AppDelegate
 
@@ -29,7 +29,19 @@
     self.viewController = [[[ViewController alloc] initWithNibName:@"ViewController" bundle:nil] autorelease];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+    
+    
+    // KIF Integration testing hooks
+    #if RUN_KIF_TESTS
+        [[EXTestController sharedInstance] startTestingWithCompletionBlock:^{
+            // Exit after the tests complete so that CI knows we're done
+            //exit([[EXTestController sharedInstance] failureCount]);
+        }];
+    #endif
+    
+    
     return YES;
+    
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application

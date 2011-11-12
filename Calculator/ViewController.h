@@ -17,6 +17,7 @@
 
 - (IBAction)digitPressed:(UIButton *)sender;
 -(IBAction)operationPressed:(UIButton *)sender;
+-(IBAction)swipeDetected:(UIGestureRecognizer *)sender;
 
 
 @end

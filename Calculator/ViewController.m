@@ -40,5 +40,11 @@
     [display setText:[NSString stringWithFormat:@"%g", result]];
 
 }
+-(IBAction)swipeDetected:(UIGestureRecognizer *)sender
+{
+    [[self brain] setOperand:0];
+}
 
 @end
+
+
